@@ -193,9 +193,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 - [Redux DevTools Extension](https://github.com/reduxjs/redux-devtools)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
